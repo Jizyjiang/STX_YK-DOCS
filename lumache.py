@@ -1,23 +1,29 @@
-"""
-Lumache - Python library for cooks and food lovers.
-"""
+# .readthedocs.yaml
+# Read the Docs configuration file
+# See https://docs.readthedocs.io/en/stable/config-file/v2.html for details
 
-__version__ = "0.1.0"
+# Required
+version: 2
 
+# Set the version of Python and other tools you might need
+build:
+  os: ubuntu-20.04
+  tools:
+    python: "3.9"
+    # You can also specify other tool versions:
+    # nodejs: "16"
+    # rust: "1.55"
+    # golang: "1.17"
 
-class InvalidKindError(Exception):
-    """Raised if the kind is invalid."""
-    pass
+# Build documentation in the docs/ directory with Sphinx
+sphinx:
+   configuration: docs/conf.py
 
+# If using Sphinx, optionally build your docs in additional formats such as PDF
+# formats:
+#    - pdf
 
-def get_random_ingredients(kind=None):
-    """
-    Return a list of random ingredients as strings.
-
-    :param kind: Optional "kind" of ingredients.
-    :type kind: list[str] or None
-    :raise lumache.InvalidKindError: If the kind is invalid.
-    :return: The ingredients list.
-    :rtype: list[str]
-    """
-    return ["shells", "gorgonzola", "parsley"]
+# Optionally declare the Python requirements required to build your docs
+python:
+   install:
+   - requirements: docs/requirements.txt
