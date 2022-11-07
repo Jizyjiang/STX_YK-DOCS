@@ -1,2 +1,2 @@
 sphinx-theme
-sphinxcontrib-videos
+sphinxcontrib-video
