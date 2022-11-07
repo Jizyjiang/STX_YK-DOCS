@@ -2,8 +2,6 @@
 
 # -- Project information
 
-
-
 project = '音控室 专业手册'
 copyright = '2022'
 author = 'JeremyJiang'
@@ -31,9 +29,8 @@ intersphinx_disabled_domains = ['std']
 templates_path = ['_templates']
 
 # -- Options for HTML output
-import sphinx_theme
-html_theme = 'stanford_theme'
-html_theme_path = [sphinx_theme.get_html_theme_path('stanford-theme')]
+
+html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
