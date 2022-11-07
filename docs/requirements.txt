@@ -1,3 +1,2 @@
 sphinx-theme
-sphinxcontrib-video
-lumache
+sphinxcontrib-videos
