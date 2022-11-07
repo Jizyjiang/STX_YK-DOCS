@@ -20,3 +20,5 @@ Contents
 
    usage
    api
+   Management&maintenance
+   信息发布
