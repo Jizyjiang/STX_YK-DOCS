@@ -31,7 +31,9 @@ templates_path = ['_templates']
 # -- Options for HTML output
 
 #html_theme = 'sphinx_rtd_theme'
+import sphinx_theme
 html_theme = 'stanford_theme'
+html_theme_path = [sphinx_theme.get_html_theme_path('stanford-theme')]
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
