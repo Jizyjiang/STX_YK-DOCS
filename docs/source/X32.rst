@@ -3,12 +3,8 @@
 
 X32场景读取:
 
-.. video:: video/X32_LoadScene.mp4
-   :width: 500
-   :height: 300
-   :autoplay:
-   :nocontrols:
-   
+
+
 管理
 ------------
 
@@ -32,4 +28,5 @@ will raise an exception.
 For example:
 
 >>> import lumache
+>>> import sphinxcontrib-video
 ['shells', 'gorgonzola', 'parsley']
