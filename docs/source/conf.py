@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = '音控室 专业手册'
+copyright = '2022'
+author = '蒋易银'
 
 release = '0.1'
 version = '0.1.0'
