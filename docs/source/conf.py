@@ -4,7 +4,7 @@
 
 project = '音控室 专业手册'
 copyright = '2022'
-author = '蒋易银'
+author = 'JeremyJiang'
 
 release = '0.1'
 version = '0.1.0'
