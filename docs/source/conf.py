@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = '音控室 专业手册'
-copyright = '2022'
-author = 'JeremyJiang'
+project = '音控室 说明手册'
+copyright = '2022 IN1.TECH'
+author = '蒋易银'
 
 release = '0.1'
 version = '0.1.0'
