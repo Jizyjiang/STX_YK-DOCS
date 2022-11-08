@@ -2,3 +2,4 @@ sphinxcontrib-video
 pbr
 sphinx-theme
 lumache
+pypng

@@ -1,10 +1,10 @@
 音控室 专业手册
 ==================
-.. video:: path/to/video.mp4
-   :width: 500
-   :height: 300
-   :autoplay:
-   :nocontrols:
+
+>>> r=png.Reader(file=urllib.urlopen('http://www.schaik.com/pngsuite/basn0g02.png'))
+>>> r.read()
+(32, 32, <itertools.imap object at 0x10b7eb0>, {'greyscale': True,
+'alpha': False, 'interlace': 0, 'bitdepth': 2, 'gamma': 1.0})
 
 
 .. note::
@@ -20,3 +20,5 @@ Contents
    api
    Management&maintenance
    X32
+
+import sphinxcontrib-video
