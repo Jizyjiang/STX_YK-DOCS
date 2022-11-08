@@ -6,7 +6,7 @@ X32场景读取:
 .. video:: video/X32_LoadScene.mp4
    :width: 500
    :height: 300
-   :nocontrols: False
+   :nocontrols: 
 
 管理
 ------------
@@ -19,7 +19,7 @@ Here is a video
 .. video:: x32_poweroff.mp4
    :width: 500
    :height: 300
-   :nocontrols: False
+   :nocontrols: 
 
 维护
 ----------------
