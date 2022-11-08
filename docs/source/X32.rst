@@ -3,29 +3,13 @@
 
 X32场景读取:
 
-.. video:: video/X32_LoadScene.mp4
-   :width: 500
-   :height: 300
-   :autoplay: false
-   :nocontrols: false
 
 管理
 ------------
-**************
-视频测试
-**************
-
-Here is a video
-----------------
-.. video:: x32_poweroff.mp4
-   :width: 500
-   :height: 300
-   :autoplay: false
-   :nocontrols: false
 
 
 维护
-----------------
+------------
 
 To retrieve a list of random ingredients,
 
