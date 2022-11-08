@@ -1,3 +1,4 @@
+sphinxcontrib-video
 pbr
 sphinx-theme
-sphinxcontrib-video
+lumache
