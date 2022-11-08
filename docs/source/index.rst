@@ -1,5 +1,5 @@
 音控室 专业手册
-=============
+==================
 
  is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
