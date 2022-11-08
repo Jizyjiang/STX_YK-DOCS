@@ -10,12 +10,13 @@ X32场景读取:
 
 管理
 ------------
+*****
+视频测试
+*****
 
-To use Lumache, first install it using pip:
+Here is a video
 
-.. code-block:: console
-
-   (.venv) $ pip install lumache
+.. video:: docs/source/video/x32_poweroff.mp4
    
 
 维护
