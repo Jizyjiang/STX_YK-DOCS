@@ -6,8 +6,8 @@ X32场景读取:
 .. video:: video/X32_LoadScene.mp4
    :width: 500
    :height: 300
-   :autoplay: False
-   :nocontrols: False
+   :autoplay: 
+   :nocontrols: 
 
 管理
 ------------
