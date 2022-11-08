@@ -38,4 +38,3 @@ html_theme_path = [sphinx_theme.get_html_theme_path('stanford-theme')]
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
 
-import sphinxcontrib-video
