@@ -1,8 +1,18 @@
 
 # X32 场景读取
-
-场景读取操作
-<video src="./source/X32/video/X32_LoadScene.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+<body>
+  <script src="https://vjs.zencdn.net/7.20.3/video.min.js"></script>
+  <video
+    id="my-video"
+    class="video-js"
+    controls
+    preload="auto"
+    width="640"
+    height="320"
+  >
+    <source src="./source/X32/video/X32_LoadScene.mp4" type="video/mp4" />
+  </video>
+</body>
 
 
 
@@ -23,34 +33,21 @@
   </strong>
 </p>
 
-场景读取操作
-<body>
-  <script src="./source/js/video.min.js"></script>
-  <video
-    id="my-video"
-    class="video-js"
-    controls
-    preload="auto"
-    width="640"
-    height="320"
-  >
-    <source src="./source/X32/video/X32_LoadScene.mp4" type="video/mp4" />
-  </video>
-</body>
 
 # X32调音台 正确的关机方法
-X32调音台 正确的关机方法
+<p align="center">
 <body>
-  <script src="./source/js/video.min.js"></script>
+  <script src="https://vjs.zencdn.net/7.20.3/video.min.js"></script>
   <video
     id="my-video"
     class="video-js"
     controls
     preload="auto"
     width="640"
-    height="320"
+    height="360"
   >
-    <source src="./source/X32/video/X32_LoadScene.mp4" type="video/mp4" />
+    <source src="./source/X32/video/X32_poweroff.mp4" type="video/mp4" />
   </video>
+  </p>
 </body>
 
