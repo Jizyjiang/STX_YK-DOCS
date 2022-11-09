@@ -50,13 +50,13 @@ markdown_extensions:
   - markdown_include.include:
       base_path: .
   - admonition
-
+  
 # Page tree
 nav:
   - 介绍: index.md
   - 更新日志: changelog/index.md
   - 管理维护: MM/index.md
   - 信息发布: PPR/index.md
-  - 调音: mixing/index.md
+  - 调音: mixing/X32/index.md
   - 灯光: light/index.md
   - 鸣谢: THX.md
