@@ -31,7 +31,7 @@ copyright: Copyright &copy; 2022 IN1.ETCH
 
 # Configuration
 theme:
-  name: MkLorum
+  name: readthedocs
   custom_dir: material/overrides
   features:
 
