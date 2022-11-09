@@ -11,6 +11,14 @@ Lorem ipsum dolor sit amet
 
 
 
+# md网络视频测试
+
+md网络视频测试
+
+<video src="./source/video/X32_LoadScene.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+
+
+
 
 <p align="center">
   <a href="https://squidfunk.github.io/mkdocs-material/">
