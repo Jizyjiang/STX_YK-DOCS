@@ -33,6 +33,7 @@ copyright: Copyright &copy; 2022 IN1.ETCH 蒋 易银
 # Configuration
 theme:
   name: readthedocs
+  highlightjs: true
 
 # Plugins
 plugins:
@@ -44,12 +45,21 @@ plugins:
    css_style:
         width: "70%"
         height: "22.172vw"
+  - mkdocstrings:
+      handlers:
+        # See: https://mkdocstrings.github.io/python/usage/
+        python:
+          options:
+            docstring_style: sphinx
 # Customization
 extra:
 
 
 # Extensions
 markdown_extensions:
+  - markdown_include.include:
+      base_path: .
+  - admonition
 
 pages:
   - [changelog/index.md, 日志]
