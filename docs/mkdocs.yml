@@ -114,19 +114,12 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
-  - Getting started:
-    - Installation: getting-started.md
-    - Creating your site: creating-your-site.md
-    - Publishing your site: publishing-your-site.md
-    - Customization: customization.md
-    - Browser support: browser-support.md
-    - Philosophy: philosophy.md
-    - Alternatives: alternatives.md
-    - License: license.md
-    - Changelog:
+  - 管理和维护:
+    - 管理: MM/Management.md
+    - 维护: MM/Maintenance.md
+    - 更新日志:
       - changelog/index.md
-      - How to upgrade: upgrade.md
-  - Setup:
+  - 信息发布:
     - Changing the colors: setup/changing-the-colors.md
     - Changing the fonts: setup/changing-the-fonts.md
     - Changing the language: setup/changing-the-language.md
@@ -148,7 +141,7 @@ nav:
       - setup/extensions/index.md
       - Python Markdown: setup/extensions/python-markdown.md
       - Python Markdown Extensions: setup/extensions/python-markdown-extensions.md
-  - Reference:
+  - 调音:
     - reference/index.md
     - Admonitions: reference/admonitions.md
     - Annotations: reference/annotations.md
@@ -165,17 +158,9 @@ nav:
     - Lists: reference/lists.md
     - MathJax: reference/mathjax.md
     - Tooltips: reference/tooltips.md
-  - Insiders:
+  - 灯光:
     - insiders/index.md
     - Getting started:
       - Installation: insiders/getting-started.md
       - Changelog: insiders/changelog.md
-  - Blog:
-    - blog/index.md
-    - 2022:
-      - blog/posts/blog-support-just-landed.md
-      - blog/posts/chinese-search-support.md
-    - 2021:
-      - blog/posts/the-past-present-and-future.md
-      - blog/posts/excluding-content-from-search.md
-      - blog/posts/search-better-faster-smaller.md
+  - 鸣谢:
