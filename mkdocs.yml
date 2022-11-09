@@ -51,8 +51,6 @@ markdown_extensions:
       base_path: .
   - admonition
 
- use_directory_urls: False
- 
 # Page tree
 nav:
   - 介绍: index.md
