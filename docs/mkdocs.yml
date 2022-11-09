@@ -64,9 +64,9 @@ plugins:
   - mkdocs-video
    #is_video: True
    video_type: mp4
-   #video_autoplay: True
+   video_autoplay: False
    css_style:
-        width: "100%"
+        width: "70%"
         height: "22.172vw"
 # Customization
 extra:
