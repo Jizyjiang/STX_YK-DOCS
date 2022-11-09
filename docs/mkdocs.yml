@@ -51,6 +51,15 @@ extra:
 # Extensions
 markdown_extensions:
 
+pages:
+  - 介绍: index.md
+  - 更新日志:
+  - [changelog/index.md, 日志]
+  - 管理和维护: MM/index.md
+    - [MM/Management.md, 管理] 
+    - [MM/Maintenance.md, 维护]
+
+
 # Page tree
 nav:
   - 介绍: index.md
