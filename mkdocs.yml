@@ -52,3 +52,7 @@ markdown_extensions:
   - admonition
 
 # Page tree
+nav:
+  - 介绍: docs/index.md
+  - 更新日志: docs/changelog/index.md
+  - 管理维护: docs/MM/index.md
