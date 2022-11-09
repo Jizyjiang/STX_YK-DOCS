@@ -21,8 +21,7 @@
 # Project information
 site_name: 音控室 使用说明手册
 site_url: yk.in1.tech
-site_author: 蒋 易银
-site_favicon: favicon.ico
+site_author: 蒋易银
 site_description: >-
   音控室 使用说明手册
 
@@ -46,16 +45,11 @@ plugins:
           options:
             docstring_style: sphinx
 # Customization
-extra:
-
-
 # Extensions
 markdown_extensions:
   - markdown_include.include:
       base_path: .
   - admonition
-
-
 
 # Page tree
 nav:
