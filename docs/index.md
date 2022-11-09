@@ -2,7 +2,7 @@
 
 youtube视频示例
 
-![type:video](https://www.youtube.com/embed/LXb3EKWsInQ)
+![type:video](https://www.bilibili.com/video/BV1d8411h7KN?t=2.5)
 
 本地视频测试：
 ![type:video](./source/video/X32_LoadScene.mp4)
