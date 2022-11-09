@@ -1,7 +1,7 @@
 
 # X32调音台场景读取
 
-<video src="./source/video/X32_LoadScene.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+<video src="./source/X32/video/X32_LoadScene.mp4" controls="controls" width="640" height="320">您的浏览器不支持播放该视频！</video>
 
 
 
