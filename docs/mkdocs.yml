@@ -20,40 +20,19 @@
 
 # Project information
 site_name: 音控室 使用说明手册
-#site_url: 
+site_url: yk.in1.tech
 site_author: 蒋 易银
+site_favicon: favicon.ico
 site_description: >-
   音控室 使用说明手册
 
 
 # Copyright
-copyright: Copyright &copy; 2022 IN1.ETCH
+copyright: Copyright &copy; 2022 IN1.ETCH 蒋 易银
 
 # Configuration
 theme:
   name: readthedocs
-  custom_dir: material/overrides
-  features:
-
-  palette:
-    - scheme: default
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-    - scheme: slate
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
-  font:
-    text: Roboto
-    code: Roboto Mono
-  favicon: assets/favicon.png
-  icon:
-    logo: logo
 
 # Plugins
 plugins:
@@ -67,6 +46,7 @@ plugins:
         height: "22.172vw"
 # Customization
 extra:
+
 
 # Extensions
 markdown_extensions:
@@ -110,7 +90,7 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - Home: index.md
+  - 介绍: index.md
   - 管理和维护:
     - 管理: [MM/Management.md, 管理] 
     - 维护: [MM/Maintenance.md, 维护]
