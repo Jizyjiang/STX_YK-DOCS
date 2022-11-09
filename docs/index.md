@@ -1,15 +1,3 @@
-# Video example
-本地视频测试：
-![type:video](./source/video/X32_LoadScene.mp4)
-
-
-# 网络平台视频测试视频示例
-
-Lorem ipsum dolor sit amet
-
-![type:video-tag](./source/video/X32_LoadScene.mp4)
-
-
 
 # md网络视频测试
 
@@ -44,6 +32,7 @@ md网络视频测试
 </head>
 
 <body>
+  <script src="https://vjs.zencdn.net/7.20.3/video.min.js"></script>
   <video
     id="my-video"
     class="video-js"
@@ -54,16 +43,6 @@ md网络视频测试
     poster="MY_VIDEO_POSTER.jpg"
     data-setup="{}"
   >
-    <source src="MY_VIDEO.mp4" type="video/mp4" />
-    <source src="MY_VIDEO.webm" type="video/webm" />
-    <p class="vjs-no-js">
-      To view this video please enable JavaScript, and consider upgrading to a
-      web browser that
-      <a href="https://videojs.com/html5-video-support/" target="_blank"
-        >supports HTML5 video</a
-      >
-    </p>
+    <source src="./source/video/X32_LoadScene.mp4" type="video/mp4" />
   </video>
-
-  <script src="https://vjs.zencdn.net/7.20.3/video.min.js"></script>
 </body>
