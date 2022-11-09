@@ -69,6 +69,7 @@ plugins:
         width: "100%"
         height: "22.172vw"
    mark: "custom-marker"
+  - mkdocs-izsam-video
 # Customization
 extra:
 

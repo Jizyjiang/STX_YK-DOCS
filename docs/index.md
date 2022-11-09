@@ -1,11 +1,15 @@
 # Video example
-
-网络平台视频测试视频示例
-
-![type:video](https://www.bilibili.com/video/BV1d8411h7KN?t=2.5)
-
 本地视频测试：
 ![type:video](./source/video/X32_LoadScene.mp4)
+
+
+# 网络平台视频测试视频示例
+
+Lorem ipsum dolor sit amet
+
+![type:video-tag](./source/video/X32_LoadScene.mp4)
+
+
 
 
 <p align="center">

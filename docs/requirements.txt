@@ -1,6 +1,2 @@
-sphinxcontrib-video
-pbr
-sphinx-theme
-lumache
-pypng
+mkdocs-izsam-video
 mkdocs-video
