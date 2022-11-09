@@ -61,20 +61,15 @@ markdown_extensions:
       base_path: .
   - admonition
 
-pages:
-  - [changelog/index.md, 日志]
-  - [MM/Management.md, 管理] 
-  - [MM/Maintenance.md, 维护]
 
 
 # Page tree
 nav:
   - 介绍: index.md
-  - 更新日志:
-  - [changelog/index.md, 日志]
+  - 更新日志: changelog/index.md
   - 管理和维护: MM/index.md
-    - [MM/Management.md, 管理] 
-    - [MM/Maintenance.md, 维护]
+    - 管理: MM/Management.md
+    - 维护: MM/Maintenance.md
   - 信息发布:
   - 调音:
   - 灯光:
