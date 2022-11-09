@@ -53,6 +53,6 @@ markdown_extensions:
 
 # Page tree
 nav:
-  - 介绍: docs/index.md
-  - 更新日志: docs/changelog/index.md
-  - 管理维护: docs/MM/index.md
+  - 介绍: index.md
+  - 更新日志: changelog/index.md
+  - 管理维护: MM/index.md
