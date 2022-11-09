@@ -1,9 +1,9 @@
 
-# md网络视频测试
+# X32 场景读取
 
-md网络视频测试
+场景读取操作
+<video src="./source/X32/video/X32_LoadScene.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
 
-<video src="./source/video/X32_LoadScene.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
 
 
 
@@ -23,26 +23,34 @@ md网络视频测试
   </strong>
 </p>
 
-
-<head>
-  <link href="https://vjs.zencdn.net/7.20.3/video-js.css" rel="stylesheet" />
-
-  <!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
-  <!-- <script src="https://vjs.zencdn.net/ie8/1.1.2/videojs-ie8.min.js"></script> -->
-</head>
-
+场景读取操作
 <body>
-  <script src="https://vjs.zencdn.net/7.20.3/video.min.js"></script>
+  <script src="./source/js/video.min.js"></script>
   <video
     id="my-video"
     class="video-js"
     controls
     preload="auto"
     width="640"
-    height="264"
-    poster="MY_VIDEO_POSTER.jpg"
-    data-setup="{}"
+    height="320"
   >
-    <source src="./source/video/X32_LoadScene.mp4" type="video/mp4" />
+    <source src="./source/X32/video/X32_LoadScene.mp4" type="video/mp4" />
   </video>
 </body>
+
+# X32调音台 正确的关机方法
+X32调音台 正确的关机方法
+<body>
+  <script src="./source/js/video.min.js"></script>
+  <video
+    id="my-video"
+    class="video-js"
+    controls
+    preload="auto"
+    width="640"
+    height="320"
+  >
+    <source src="./source/X32/video/X32_LoadScene.mp4" type="video/mp4" />
+  </video>
+</body>
+
