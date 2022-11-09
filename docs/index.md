@@ -1,3 +1,13 @@
+# Video example
+
+youtube视频示例
+
+![type:video](https://www.youtube.com/embed/LXb3EKWsInQ)
+
+本地视频测试：
+![type:video](./source/video/X32_LoadScene.mp4)
+
+
 <p align="center">
   <a href="https://squidfunk.github.io/mkdocs-material/">
     <img src="https://raw.githubusercontent.com/squidfunk/mkdocs-material/master/.github/assets/logo.svg" width="320" alt="Material for MkDocs">
