@@ -91,7 +91,7 @@ markdown_extensions:
 # Page tree
 nav:
   - 介绍: index.md
-  - 管理和维护:
+  - 管理和维护: MM/index.md
     - 管理: [MM/Management.md, 管理] 
     - 维护: [MM/Maintenance.md, 维护]
     - 更新日志:
