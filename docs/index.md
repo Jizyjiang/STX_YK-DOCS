@@ -1,5 +1,6 @@
 
 # X32 场景读取
+
 <body>
   <script src="https://vjs.zencdn.net/7.20.3/video.min.js"></script>
   <video
@@ -46,8 +47,7 @@
     width="640"
     height="360"
   >
-    <source src="./source/X32/video/X32_poweroff.mp4" type="video/mp4" />
+    <source src="./source/X32/video/X32_Poweroff.mp4" type="video/mp4" />
   </video>
   </p>
 </body>
-
