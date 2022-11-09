@@ -12,3 +12,13 @@
 ## 调音
 
 ## 灯光控制
+
+
+nav:
+  - 介绍: index.md
+  - 更新日志: changelog/index.md
+  - 管理和维护: MM/index.md
+  - 信息发布:
+  - 调音:
+  - 灯光:
+  - 鸣谢:
