@@ -31,7 +31,7 @@ copyright: Copyright &copy; 2022 IN1.ETCH
 
 # Configuration
 theme:
-  name: material
+  name: MkLorum
   custom_dir: material/overrides
   features:
 
@@ -112,8 +112,8 @@ markdown_extensions:
 nav:
   - Home: index.md
   - 管理和维护:
-    - 管理: MM/Management.md
-    - 维护: MM/Maintenance.md
+    - 管理: [MM/Management.md, 管理] 
+    - 维护: [MM/Maintenance.md, 维护]
     - 更新日志:
       - changelog/index.md
   - 信息发布:
