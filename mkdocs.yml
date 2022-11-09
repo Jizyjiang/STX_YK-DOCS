@@ -20,7 +20,7 @@
 
 # Project information
 site_name: 音控室 使用说明手册
-site_url: yk.in1.tech
+site_url: http://yk.in1.tech
 site_author: 蒋易银
 site_description: >-
   音控室 使用说明手册
@@ -51,6 +51,8 @@ markdown_extensions:
       base_path: .
   - admonition
 
+ use_directory_urls: False
+ 
 # Page tree
 nav:
   - 介绍: index.md
