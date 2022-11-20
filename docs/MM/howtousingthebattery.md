@@ -12,4 +12,4 @@
 3.当电池使用完毕后，请将电池放入<font color='red'> 待充电区 </font>。<br>
 4.将<font color='green'> 已充满电量 </font>的电池放入电池盒中。如下动画所示<br>
 <video src="video/batteryin.mp4" controls="controls" width="640" height="320">您的浏览器不支持播放该视频！</video>
-# <font color='green'> 请注意，不要将使用过的充电电池放入充电盒中。 </font> 
+# <font color='red'> 请注意，不要将使用过的充电电池放入充电盒中。 </font> 
